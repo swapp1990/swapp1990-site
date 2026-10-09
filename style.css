@@ -176,3 +176,18 @@ code {
     font-size: 16px;
   }
 }
+
+#faq h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.15rem 0 0.35rem;
+}
+
+.sister-sites {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.75rem;
+  margin: 0 0 0.85rem;
+  color: var(--fg-muted);
+}
