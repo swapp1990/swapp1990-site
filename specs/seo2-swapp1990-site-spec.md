@@ -11,7 +11,7 @@ Shared blocks: `specs/seo2-shared-blocks.md` (use exactly). Implementer: Grok CL
    1. **Who is Swapnil Sawant?** — A Senior Software Engineer at Phoenix Bioinformatics in the SF Bay Area. I keep the world's reference plant-biology database running by day — and ship AI products, games, and agent tooling at night.
    2. **What is Phoenix Bioinformatics?** — The nonprofit that runs TAIR, the reference genomics database for plant biology, used by researchers worldwide. I've worked there since 2018.
    3. **What is Molty?** — My agent-powered studio: a stack of AI agents that build, test, record, and market alongside me. Most of what I ship comes out of it.
-   4. **Do your products share one account?** — Yes. One Swapp1990 account signs you in to DesignForYou, WriteForYou, LetMeActForYou and SnapForYou.
+   4. **Do your products share one account?** — Yes. One Swapp1990 account signs you in to DesignForYou, WriteForYou, Let Me Act and SnapForYou.
    5. **How do I contact you?** — Email me at swapp19902@gmail.com.
    (Visible answers may link the product names / email exactly as the page already does; the JSON-LD answer is the plain text.)
 4. Footer: keep both existing `<p>` lines; add above them the cross-links nav (shared C **without** the swapp1990.org link) and a short
